@@ -16,8 +16,6 @@ My name is Denise; I am 35 years old and was born in São Paulo, Brazil. I hold 
 - 📊 Visualization
 - 🔬 Analytics
 
-### 🤖 Linguagens 
-
 <img 
     align="left" 
     alt="R" 
