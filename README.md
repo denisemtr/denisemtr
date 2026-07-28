@@ -1,13 +1,22 @@
-# Denise Miguel Teixeira Roberto
+# Hi,👋 I'm Denise Miguel Teixeira Roberto
 
-**`Analista de dados em saúde, Pesquisadora e Nutricionista`**
+**`🚀 Analista de dados em saúde, Pesquisadora e Nutricionista`**
+🇧🇷 
 
-Me chamo Denise, tenho 35 anos e sou natural de São Paulo-SP. Tenho graduação pela USP e Mestrado e Doutorado pela UFSC. Atualmente realizo MBA em Data Science, Inteligência Artificial e Analytics da USP/Esalq e sou pesquisadora em projetos vinculados à USP e à UNIFESP.
+My name is Denise; I am 35 years old and was born in São Paulo, Brazil. I hold a degree in Nutrition from the University of São Paulo (USP) and earned both my master's and doctoral degrees from the Federal University of Santa Catarina (UFSC). Currently, I am pursuing an MBA in Data Science, Artificial Intelligence, and Analytics at USP/Esalq and working as a researcher on projects affiliated with USP and UNIFESP.
 
+---
+### What I do
+
+
+- 💡 Research projects
+- 📝 Scientific articles and materials
+- 🔍 Multivariate statistics
+- ⚙️ Data Wrangling
+- 📊 Visualization
+- 🔬 Analytics
 
 ### 🤖 Linguagens 
-
-
 
 <img 
     align="left" 
@@ -17,7 +26,6 @@ Me chamo Denise, tenho 35 anos e sou natural de São Paulo-SP. Tenho graduação
     style="padding-right: 10px;" 
     src="https://devicon-website.vercel.app/api/rstudio/original.svg" 
 />
-
 
 <img 
     align="left" 
