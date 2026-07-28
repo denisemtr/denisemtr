@@ -8,7 +8,7 @@ Me chamo Denise, tenho 35 anos e sou natural de São Paulo-SP. Tenho graduação
 ### 🤖 Linguagens 
 
 
-/>
+
 <img 
     align="left" 
     alt="R" 
@@ -18,7 +18,7 @@ Me chamo Denise, tenho 35 anos e sou natural de São Paulo-SP. Tenho graduação
     src="https://devicon-website.vercel.app/api/rstudio/original.svg" 
 />
 
-/>
+
 <img 
     align="left" 
     alt="Python" 
